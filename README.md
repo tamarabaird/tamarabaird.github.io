@@ -1,2 +1,2 @@
 # tamarabaird.github.io
-Portfolio showcasing UX/UI design, healthcare and cybersecurity work
+Portfolio showcasing work in UX/UI design, security, and technology
